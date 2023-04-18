@@ -11,6 +11,8 @@ Previous: [README](README.md)
 
 ***
 
+We added a different line in the github copy
+
 ## Setting up for today's class
 
 For this quick hands-on session we will be using a Graphical User Interface (GUI) to work with Git. Let's start by:
